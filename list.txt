@@ -1,0 +1,14 @@
+Anna	Red
+Bob	Blue
+John	Green
+David	Yellow
+James	Blue
+Brian	Orange
+Tom	Pink
+Betty	Green
+Flora	Yellow
+Olivia  Green
+Sophia	Red
+Emily	Yellow
+Jack	Blue
+Jill	Yellow

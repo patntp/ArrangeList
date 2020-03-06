@@ -1,0 +1,34 @@
+List sorted by colour
+Blue Bob
+Blue James
+Blue Jack
+Green John
+Green Betty
+Green Olivia
+Orange Brian
+Pink Tom
+Red Anna
+Red Sophia
+Yellow David
+Yellow Flora
+Yellow Emily
+Yellow Jill
+
+Number of people for each colour sorted by key(colour)
+Blue: 3 people
+Green: 3 people
+Orange: 1 person
+Pink: 1 person
+Red: 2 people
+Yellow: 4 people
+
+Number of people for each colour sorted by value(#people)
+Yellow: 4 people
+Blue: 3 people
+Green: 3 people
+Red: 2 people
+Orange: 1 person
+Pink: 1 person
+
+Total number of people: 14
+Total number of colours: 6
